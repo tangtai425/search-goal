@@ -1,0 +1,21 @@
+{
+  "name": "do-for-dad-search-goal",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:tangtai425/search-goal.git",
+  "author": "Korrakhod <mirable.tang@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash.filter": "^4.6.0",
+    "lodash.find": "^4.6.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-scripts": "1.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
